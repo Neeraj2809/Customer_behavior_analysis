@@ -88,7 +88,7 @@ Developed an interactive Power BI dashboard to visualize key business metrics an
 The dashboard helps understand:
 - Customer purchasing patterns.
 - Revenue distribution.
-- Product and category performance.
+- Products and category performance.
 - Customer segmentation.
 - Subscription trends.
 - Discount and shipping behavior.
