@@ -238,7 +238,7 @@ Connect or update the data source if required to explore the interactive dashboa
 
 **Neeraj Lalge**
 
-B.Tech Computer Engineering Student | Aspiring Data Analyst / Data Scientist
+B.Tech Information Technology Student.
 
 [LinkedIn](https://linkedin.com/in/neeraj-lalge-88b878424/)
 
